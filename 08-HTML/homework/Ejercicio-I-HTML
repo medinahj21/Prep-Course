@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Tarea HTML de Hector </title>
+        <link rel="stylesheet" href="C:\Users\Lenovo\Desktop\Prep-Course\08-HTML\homework\styles.css">
+    
+    </head>
+
+    <body>
+        <div class="divClass">
+            <h1> HECTOR </h1>
+            <h3> "Henry" </h3>
+            <h4> tarea de HTML/CSS </h4>
+
+        </div>
+
+        <div class="divClass">
+            <span id="spanId"> Mi comida favorita es la pizza </span>
+            <a href="https://www.dominos.com.co/index"> link para restaurante </a>
+
+        </div>
+
+        <div id="thirdDiv">
+            <ul> 
+                <li><img src="https://www.saborusa.com/wp-content/uploads/2019/10/Animate-a-disfrutar-una-deliciosa-pizza-de-salchicha-Foto-destacada.png"/> </li>
+                <li><img src="https://radionacional-v3.s3.amazonaws.com/s3fs-public/styles/portadas_relaciona_4_3/public/node/article/field_image/COLP_EXT_111040.jpg?h=3e099002&itok=CDYT_h3S"/></li>
+            </ul>
+
+        </div>
+
+    </body>
+
+
+
+
+
+    
+
+
+
+
+
+
+</html>
